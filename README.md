@@ -12,42 +12,64 @@ custom streamable source with alot of features = 160k in roblox lims value / $40
 
 # Da hood :
 x galaxy rev = each $55
+
 1x galaxy db = each $50
+
 1x galaxy tac = idk dm
+
 1x heaven knife
 
 # Limiteds :
 1x classic fedora = dm offer
+
 1x blue queen of the night = dm offer
+
 1x catching snowflake = dm offer
 
 
 # Scripts :
 Shhhh = discord.gg/shhhh = price channel in server
+
 idkfuckthisshit / blade ball = discord.gg/wyw = price channel in server
+
 vsfs server access = $30 btc/eth, paypal, 10k robux
 
 { 
 
 RatzR ( private ) = dm me $100 btc/eth, $120 paypal, $120 card
+
 RatzR ( full source code ) = $1000 in btc/eth, 500k value in roblox limited, dm offers ig?
 
 whats RatzR?
 
+( if you want to see the features clips etc dm @hahahahhhhhaah )
+
 IT WILL NEVER GO PUBLIC its staying private forever like the non - rewrite version
 
 bullet tp
+
 #1 blade ball script ( 93 win streak )
+
 best trash talk ( auto gets users name and trashtalks it )
+
 3 bullet tp methods
+
 works on all dahood games
+
 fast updates
+
 walkable desync, hella op private antis
+
 best visuals
+
 best esp, esp preview
+
 playerlist with useful stuff
+
 nearestpoint and aim viewer bypass built in a target aim
+
 5 resolver methods all optional
+
 etc and more to come
 
 }
