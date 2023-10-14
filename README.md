@@ -30,7 +30,7 @@ x galaxy rev = each $55
 # Scripts :
 Shhhh = discord.gg/shhhh = price channel in server
 
-idkfuckthisshit / blade ball = discord.gg/wyw = price channel in server
+shakir / blade ball = discord.gg/hand = price channel in server ( #1 blade ball legit and blatant script )
 
 vsfs server access = $30 btc/eth, paypal, 10k robux
 
