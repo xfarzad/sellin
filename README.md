@@ -5,7 +5,9 @@ custom streamable source with alot of features = 160k in roblox lims value / $40
 
 # anime adventures
 3x evolved homuru = 25$
+
 1x dio oh SSS,S,S = 450$
+
 1x boron = 25$
 
 # Da hood :
