@@ -44,6 +44,8 @@ whats RatzR?
 
 ( if you want to see the features clips etc dm @hahahahhhhhaah )
 
+0 fps drops because optimized as shit and not skidded ofc
+
 IT WILL NEVER GO PUBLIC its staying private forever like the non - rewrite version
 
 bullet tp
