@@ -2,50 +2,48 @@
 # Scripts :
 
 
-RatzR ( private ) =   dm me $100 btc/eth or $120 paypal or $120 card
++ RatzR ( private ) =   dm me $100 btc/eth or $120 paypal or $120 card
 
-RatzR ( full source code ) = RGB karambit or $1000 in btc/eth or 500k value in roblox limited or dm offers ig?
++ RatzR ( full source code ) = RGB karambit or $1000 in btc/eth or 500k value in roblox limited or dm offers ig?
 
 # whats RatzR?
 
-( if you want to see the features clips etc dm @hahahahhhhhaah )
++ ( if you want to see the features clips etc dm @hahahahhhhhaah )
 
-0 fps drops because optimized as shit and not skidded ofc and 100% out of scratch
++ 0 fps drops because optimized as shit and not skidded ofc and 100% out of scratch
 
-IT WILL NEVER GO PUBLIC its staying private forever like the non - rewrite version
++ IT WILL NEVER GO PUBLIC its staying private forever like the non - rewrite version
 
-bullet tp
++ bullet tp
 
-#1 blade ball script ( 93 win streak )
++ #1 blade ball script ( 93 win streak )
 
-best trash talk ( auto gets users name and trashtalks it )
++ best trash talk ( auto gets users name and trashtalks it )
 
-3 bullet tp methods
++ 3 bullet tp methods
 
-works on all dahood games
++ works on all dahood games
 
-fast updates
++ fast updates
 
-walkable desync, hella op private antis
++ walkable desync, hella op private antis
 
-best visuals
++ best visuals
 
-best esp, esp preview
++ best esp, esp preview
 
-playerlist with useful stuff
++ playerlist with useful stuff
 
-nearestpoint and aim viewer bypass built in a target aim
++ nearestpoint and aim viewer bypass built in a target aim
 
-5 resolver methods all optional
++ 5 resolver methods all optional
 
 + free ratz killbot
 
 etc and more to come
 
-}
 
-
-------------------------------------------------------------------------------------------------------------------------------
+# other scripts
 
 
 Shhhh = discord.gg/shhhh = price channel in server
