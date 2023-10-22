@@ -2,15 +2,11 @@
 # Scripts :
 
 
-RatzR ( private ) = 
+RatzR ( private ) =   dm me $100 btc/eth or $120 paypal or $120 card
 
-dm me $100 btc/eth, $120 paypal, $120 card
+RatzR ( full source code ) = RGB karambit or $1000 in btc/eth or 500k value in roblox limited or dm offers ig?
 
-RatzR ( full source code ) = 
-
-RGB karambit, $1000 in btc/eth, 500k value in roblox limited, dm offers ig?
-
-whats RatzR?
+# whats RatzR?
 
 ( if you want to see the features clips etc dm @hahahahhhhhaah )
 
