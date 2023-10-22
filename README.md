@@ -2,7 +2,7 @@
 # Scripts :
 
 
-+ RatzR ( private ) =   dm me $100 btc/eth or $120 paypal or $120 card
++ RatzR ( private 1x whitelist ) =   dm me $100 btc/eth or $120 paypal or $120 card
 
 + RatzR ( full source code ) = RGB karambit **or** $1000 in btc/eth or 500k value in roblox limited or dm offers ig?
 
