@@ -15,7 +15,7 @@ vsfs server access = $30 btc/eth, paypal, 10k robux
 
 shit idk = dm offer
 
-custom streamable source with alot of features = 160k in roblox lims value / $400 btc / dm offers
+custom streamable source with alot of features = 160k in roblox lims value / $350 btc / dm offers
 
 # anime adventures
 3x evolved homuru = 25$
